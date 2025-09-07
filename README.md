@@ -1,5 +1,10 @@
 ## Hi, meu nome é Andrya     ✨
-
+Iniciei minha trilha em TI, cursando Ciência da computação
+Sou apaixonada por tecnologia e tudo que a envolve
+Sou agente de serviço de saneamento, então tecnologia e meio ambiente estão no meu cotidiano e o melhor, sou paga pra isso rsrsrs
+Gosto de ler e praticar esporte, futebol, volei
+Tenho como objetivo me especializar mais nas áreas de programação, HTML5, JAVASCRIPT.
+Em constante evolução!
 <!--
 **Andryacxb/Andryacxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
